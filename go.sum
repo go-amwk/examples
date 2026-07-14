@@ -1,6 +1,8 @@
 github.com/go-amwk/core v0.0.1 h1:I8UOBzfOaN+6P6SYWwXqznslpELPXgKEruaPDpUyHNo=
 github.com/go-amwk/core v0.0.1/go.mod h1:zOhJQ/5aTH87NY2vphPdJXHY8enN8gDKSWIicvY4Kns=
-github.com/go-amwk/engine v0.0.0-20260306050343-17d12233d81f h1:88G7WxbbVO5o8ehr81/mO3jH2h9PDerSS+EutFeiYTA=
-github.com/go-amwk/engine v0.0.0-20260306050343-17d12233d81f/go.mod h1:5vKVTCH5lVg37s4acNzZUsNKwI7xgQx8LGwbidA9nek=
-github.com/go-amwk/web v0.0.0-20260310021957-0fbe8e8bda53 h1:V3+bqaaforh9xDFQMrSO3LdaQPbGfwRvngURcqF3q+E=
-github.com/go-amwk/web v0.0.0-20260310021957-0fbe8e8bda53/go.mod h1:ZZxUUKVtTGWoF/UzYsTd3JaPguMg7glcuDLiYufQFC0=
+github.com/go-amwk/engine v0.0.1 h1:LDjIpG0L/bq3kjVjaOtbt6+H/snMh4Xo4BziygyF/xM=
+github.com/go-amwk/engine v0.0.1/go.mod h1:5vKVTCH5lVg37s4acNzZUsNKwI7xgQx8LGwbidA9nek=
+github.com/go-amwk/router v0.0.1 h1:j2ouLKK9jcsWd/v8QWjaqcq9PaUkGRfkQ0/AuNfSV5U=
+github.com/go-amwk/router v0.0.1/go.mod h1:cEdr0cauWb+JAOlfLHwDhJWRl72ZqIfAW9wMeB56tGQ=
+github.com/go-amwk/web v0.0.1 h1:csJxt8Iwz603G99tt0aBHRWtnkcunHLFCGTRXU0J5As=
+github.com/go-amwk/web v0.0.1/go.mod h1:GkU32WROILxPnv1Qz5idZ8t6GnN28AqhvN6i6eF0B/g=
