@@ -12,6 +12,7 @@ This repository contains various examples demonstrating how to use the AMWK fram
 | Request Body | A simple echo server that reads the request body and sends it back in the response. | [Detail](request_body/README.md) \| [Code](request_body/app.go) |
 | Handler Chain | An example showing how to create a handler chain to process requests in a modular way. | [Detail](handler_chain/README.md) \| [Code](handler_chain/app.go) |
 | State Management | An example illustrating how to manage state in a web application. | [Detail](state_management/README.md) \| [Code](state_management/app.go) |
+| HTTP static path routing | An example demonstrating how to use the `router` package in AMWK to define static routes and mount them into a web application. | [Detail](static_router/README.md) \| [Code](static_router/app.go) |
 
 ## How to Use the Examples
 
